@@ -1,2 +1,2 @@
 # CTF
-Capture the Flag 
+Hacking Competition - Capture the Flag 
